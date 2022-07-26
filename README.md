@@ -1,2 +1,2 @@
-# mern_stack
+# MERN Stack
 Mern Stack Project
